@@ -14,9 +14,21 @@
    id="svg2985"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="combined.svg">
+   sodipodi:docname="combined.svg"
+   enable-background="new">
   <defs
-     id="defs2987" />
+     id="defs2987">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5322">
+      <feBlend
+         inkscape:collect="always"
+         mode="lighten"
+         in2="BackgroundImage"
+         id="feBlend5324" />
+    </filter>
+  </defs>
   <sodipodi:namedview
      inkscape:document-units="in"
      pagecolor="#ffffff"
@@ -25,9 +37,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="285.84979"
-     inkscape:cy="332.12448"
-     inkscape:current-layer="layer3"
+     inkscape:cx="544.82211"
+     inkscape:cy="361.8301"
+     inkscape:current-layer="layer4"
      id="namedview2989"
      showgrid="true"
      units="in"
@@ -295,5 +307,207 @@
          d="m 275.4828,754.26424 -203.570226,-25 c -61.9778947,-7.61137 -60,-5 -60,-65 l 0,-569.333327 c 0,-45 19.999857,-63.939209 60.69857,-63.987887 L 918.81613,29.930913 c 35,0 55.3784,19.999941 55,60 l -5.48675,579.998347 c -0.53722,57.06406 -5.53457,54.76717 -44.51325,59.33498 l -213.33333,25 c -0.58673,-60.77305 0,-45 0,-60 0,-25 -20,-45 -45,-45 l -345,10e-6 c -25,0 -45,20 -45,45 0,14.97589 0.13402,-0.41389 0,59.99999 z"
          style="fill:none;stroke:#ff0000;stroke-width:0.99000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Text"
+     style="display:inline;filter:url(#filter5322)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="135.29468"
+       y="139.82486"
+       id="text5217"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5219"
+         x="135.29468"
+         y="139.82486">Mancubus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="320.2236"
+       y="145.06392"
+       id="text5221"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5223"
+         x="320.2236"
+         y="145.06392">Arch-Vile</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="496.45407"
+       y="171.5284"
+       id="text5225"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5227"
+         x="496.45407"
+         y="171.5284">Cyberdemon</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="780.46625"
+       y="170.3934"
+       id="text5229"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5231"
+         x="780.46625"
+         y="170.3934">Arachnotron</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="842.96014"
+       y="364.45407"
+       id="text5253"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5255"
+         x="842.96014"
+         y="364.45407">Pain Elemental</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="713.43506"
+       y="359.92892"
+       id="text5249"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5251"
+         x="713.43506"
+         y="359.92892">Cacodemon</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="557.58582"
+       y="413.18881"
+       id="text5245"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5247"
+         x="557.58582"
+         y="413.18881">Lost Soul</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="314.18198"
+       y="398.46091"
+       id="text5241"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5243"
+         x="314.18198"
+         y="398.46091">Baron of Hell</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="138.68808"
+       y="471.51294"
+       id="text5237"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5239"
+         x="138.68808"
+         y="471.51294">Demon</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="152.07106"
+       y="616.52155"
+       id="text5257"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5259"
+         x="152.07106"
+         y="616.52155">Imp</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="295.65686"
+       y="550.02765"
+       id="text5265"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5267"
+         x="295.65686"
+         y="550.02765">Zombieman</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="503.5061"
+       y="538.53198"
+       id="text5261"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5263"
+         x="503.5061"
+         y="538.53198">Marine</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="639.12134"
+       y="544.54236"
+       id="text5269"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5271"
+         x="639.12134"
+         y="544.54236">Shotgun Guy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="813.37439"
+       y="579.76422"
+       id="text5273"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5275"
+         x="813.37439"
+         y="579.76422">Chaingunner</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="112.01041"
+       y="297.37943"
+       id="text5233"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5235"
+         x="112.01041"
+         y="297.37943">Revenant</tspan></text>
+    <a
+       style="display:inline;filter:url(#filter5322)"
+       id="a5338">
+      <text
+         sodipodi:linespacing="125%"
+         id="text5326"
+         y="679"
+         x="308"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="679"
+           x="308"
+           id="tspan5328"
+           sodipodi:role="line">Laser cutting design for Reaper Miniatures Doom figures</tspan><tspan
+           id="tspan5330"
+           y="697.75"
+           x="308"
+           sodipodi:role="line">boxed set. This file is split into three layers, color coded</tspan><tspan
+           id="tspan5332"
+           y="716.5"
+           x="308"
+           sodipodi:role="line">as red, green and blue (use Inkscape's layers feature to</tspan><tspan
+           id="tspan5334"
+           y="735.25"
+           x="308"
+           sodipodi:role="line">view individually). Each layer should be cut as a ½ inch</tspan><tspan
+           id="tspan5336"
+           y="754"
+           x="308"
+           sodipodi:role="line">sheet of polyester foam.</tspan></text>
+    </a>
   </g>
 </svg>
