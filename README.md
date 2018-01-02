@@ -8,3 +8,7 @@ manufactured by "Condition 1", their #699 case (it's marketed as a handgun
 flight case). You can buy extra cases from Reaper but it's also cheaper to
 just buy them directly - search Amazon or eBay for UPC 857357003037.
 
+The arrangement of the figures is inspired by the
+[hierarchy of Doom](https://www.doomworld.com/pageofdoom/graphics/treebig.jpg)
+magazine ad that was published in the '90s to advertize the PlayStation port
+of Doom.
