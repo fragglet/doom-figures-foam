@@ -7,7 +7,9 @@ sets that were sold in 2013.
 
 # How to cut
 
-Buy polyether foam, charcoal, 1/2in thick.
+You'll need three sheets of half-inch foam, each 12x10 inch in size. I
+bought "Appalachian Tough" foam in charcoal color, is designed for gun cases
+and (apparently) safe to use in laser cutters.
 
 The [SVG file](combined.svg) contains data for three layers. In Inkscape you
 can use Layer-\>Layers... to view the different layers. They are also
