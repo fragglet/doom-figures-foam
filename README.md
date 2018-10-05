@@ -1,7 +1,24 @@
+This is a design for a better foam tray for the Doom Reaper Miniatures boxed
+sets that were sold in 2013.
+
+![Photo of cut design](photos/cut-design.jpg)
+
 [See here for some context](https://www.doomworld.com/forum/topic/66283-improving-the-reaper-miniatures-boxed-sets/).
 
-Should be polyether foam, charcoal, 1/2in thick. The three layer version has
-not at the time of writing been tested out (=laser cut).
+# How to cut
+
+Buy polyether foam, charcoal, 1/2in thick.
+
+The [SVG file](combined.svg) contains data for three layers. In Inkscape you
+can use Layer-\>Layers... to view the different layers. They are also
+color-coded - you can use this with the color mapping feature found on most
+laser cutters to only print particular layers.
+
+Before cutting you'll need to change stroke widths to hairline otherwise
+the laser cutter won't cut anything. They aren't set to hairline in the file
+otherwise Inkscape shows them as invisible.
+
+# Other minutiae
 
 The case used by Reaper Miniatures for the Doom figures set appears to be
 manufactured by "Condition 1", their #699 case (it's marketed as a handgun
@@ -12,3 +29,4 @@ The arrangement of the figures is inspired by the
 [hierarchy of Doom](https://www.doomworld.com/pageofdoom/graphics/treebig.jpg)
 magazine ad that was published in the '90s to advertize the PlayStation port
 of Doom.
+
