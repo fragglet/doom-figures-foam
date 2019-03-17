@@ -8,8 +8,9 @@ sets that were sold in 2013.
 # How to cut
 
 You'll need three sheets of half-inch foam, each 12x10 inch in size. I
-bought "Appalachian Tough" foam in charcoal color, is designed for gun cases
-and (apparently) safe to use in laser cutters.
+bought ["Appalachian Tough" foam](https://www.carolinacustomfoam.com/brands/Appalachian-Tough-%E2%84%A2.html)
+in charcoal color, which is designed for gun cases and (apparently) safe to
+use in laser cutters.
 
 The [SVG file](combined.svg) contains data for three layers. In Inkscape you
 can use Layer-\>Layers... to view the different layers. They are also
@@ -31,4 +32,3 @@ The arrangement of the figures is inspired by the
 [hierarchy of Doom](https://www.doomworld.com/pageofdoom/graphics/treebig.jpg)
 magazine ad that was published in the '90s to advertize the PlayStation port
 of Doom.
-
